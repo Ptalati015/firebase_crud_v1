@@ -1,3 +1,6 @@
+## room for improvement just logic is key to understand typescript and expressJS and firebase 
+
+
 # firebase_crud_v1
 
 ## Firestore TypeScript API
